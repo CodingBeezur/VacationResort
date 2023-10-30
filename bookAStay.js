@@ -28,6 +28,14 @@ function getForm(event) {
     let queenSize = document.getElementById('queenSizedBed');
     let kingSize = document.getElementById('kingSizedBed');
     let suiteSize = document.getElementById('suitSizeBed');
+}
 
+let 
+
+function  discountDetails() {
+
+    if (militaryDiscountRadio.checked) {
+        let militaryDiscountPrice = .20 //20% discount 
+    }
 }
 
